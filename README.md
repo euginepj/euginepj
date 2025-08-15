@@ -38,8 +38,8 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=ayu-mirage" alt="euginepj" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="euginepj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=ayu-mirage" alt="euginepj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=ayu-mirage" alt="euginepj" /></p>
