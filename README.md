@@ -87,7 +87,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=radical" alt="Trophy" />
   </a>
 </p>
 
