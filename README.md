@@ -10,7 +10,16 @@
   </a>
 </p>
 
-<p align="center">
+---
+
+### 🙋‍♂️ About Me
+- 👨‍💻 All of my projects are available at [**https://euginepj.github.io/**](https://euginepj.github.io/)
+- 📫 How to reach me: [**euginepj@yahoo.com**](mailto:euginepj@yahoo.com)
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+<p align="left">
   <a href="https://linkedin.com/in/eugine-joseph-67ab6719" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,45 +29,13 @@
   <a href="https://fb.com/eugine.joseph.5" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:euginepj@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://euginepj.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="Trophy" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-
-<p align="center">
+<p align="left">
   <!-- PHP/Frameworks -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -84,6 +61,34 @@
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="Trophy" />
+  </a>
 </p>
 
 ---
