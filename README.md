@@ -1,26 +1,43 @@
 <h1 align="center">Hi 👋, I'm Eugine Joseph</h1>
 <h3 align="center">Full Stack PHP Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=euginepj&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="euginepj" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=euginepj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 👨‍💻 All of my projects are available at [https://euginepj.github.io/](https://euginepj.github.io/)
-
-- 📫 How to reach me **euginepj@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eugine-joseph-67ab6719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugine-joseph-67ab6719" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1587049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1587049" height="30" width="40" /></a>
-<a href="https://fb.com/eugine.joseph.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eugine.joseph.5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=euginepj&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="euginepj" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="trophy" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  👨‍💻 All of my projects are available at [**euginepj.github.io**](https://euginepj.github.io/)
+  <br />
+  📫 How to reach me: [**euginepj@yahoo.com**](mailto:euginepj@yahoo.com)
+
+</div>
+
+---
+
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/eugine-joseph-67ab6719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugine-joseph-67ab6719" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/1587049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1587049" height="30" width="40" /></a>
+  <a href="https://fb.com/eugine.joseph.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eugine.joseph.5" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -38,8 +55,18 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="euginepj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=ayu-mirage" alt="euginepj" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=ayu-mirage" alt="euginepj" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="euginepj" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=tokyonight&hide_border=true" alt="euginepj" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="euginepj" />
+</p>
