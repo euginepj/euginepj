@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://euginepj.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Eugine+Joseph;Full+Stack+PHP+Developer;Passionate+About+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Eugine%20Joseph%3BFull%20Stack%20PHP%20Developer%3BPassionate%20About%20Web%20Development" alt="Typing SVG" />
   </a>
 </div>
 
