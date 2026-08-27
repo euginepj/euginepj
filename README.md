@@ -79,7 +79,7 @@
 </table>
 
 <p align="center">
-  <img src="https://gitstreak.vercel.app/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-one.vercel.app/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
