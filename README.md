@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://euginepj.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Eugine+Joseph;Full+Stack+PHP+Developer;Passionate+About+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Eugine+Joseph;Full+Stack+PHP+Developer;Passionate+About+Web+Development" alt="Typing SVG" />
   </a>
 </div>
 
@@ -70,16 +70,16 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=euginepj&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=euginepj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://gitstreak.vercel.app/?user=euginepj&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=euginepj&theme=radical" alt="Trophy" />
+    <img src="https://github-profile-trophy-seven.vercel.app/?username=euginepj&theme=radical" alt="Trophy" />
   </a>
 </p>
 
